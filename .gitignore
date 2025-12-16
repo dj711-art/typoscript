@@ -1,0 +1,9 @@
+# Compiled JavaScript files
+*.js
+*.js.map
+
+# Node modules (if you use npm in the future)
+node_modules/
+
+# OS files
+.DS_Store
