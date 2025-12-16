@@ -10,6 +10,7 @@
       "es6",
       "dom"
     ],
+    "target":"ESNext",
     "rootDir": "src",
     "moduleResolution": "node"
   }
